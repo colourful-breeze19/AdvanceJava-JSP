@@ -1,0 +1,8 @@
+com\training\web\entity\ImageEntity.class
+com\training\web\entity\UserEntity.class
+com\training\web\servlet\TableServlet.class
+com\training\web\dao\ImageDao.class
+com\training\web\config\HibernateConfig.class
+com\training\web\servlet\ImageServlet.class
+com\training\web\servlet\LoginServlet.class
+com\training\web\dao\LoginDao.class
